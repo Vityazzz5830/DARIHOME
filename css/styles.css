@@ -169,6 +169,10 @@
   margin: 0 auto;
 }
 
+.main__container_header{
+  max-width: calc(100vw - 66px;)
+}
+
 /*----------------------ШАПКА---------------------------*/
 
 .header_content_burger{
