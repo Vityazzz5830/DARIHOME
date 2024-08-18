@@ -4891,7 +4891,7 @@ column-gap: 10px;
 
 @media screen and (max-width: 1919px) and (min-width: 1441px){
   .main__container {
-    max-width: 100vw;
+    
   }
 
   .questionssec > div:nth-child(1) > div:nth-child(1) {
