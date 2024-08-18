@@ -170,7 +170,7 @@
 }
 
 .main__container_header{
-  max-width: calc(100vw - 66px;)
+  max-width: calc(100vw - 66px) !important;
 }
 
 /*----------------------ШАПКА---------------------------*/
